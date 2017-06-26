@@ -1,2 +1,3 @@
 # myfirstrepo
-tutorial github myfirstrepo 
+tutorial github myfirstrepo
+add my name 
